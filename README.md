@@ -4,8 +4,9 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## Problems Solved
 
-- 1. [Punishment Number Calculation](./punishment_number/description.md)
-- 2. [Two Sum](./two_sum/description.md)
+- 1. [Two Sum](./two_sum/description.md)
+- 2. [Punishment Number Calculation](./punishment_number/description.md)
+- 3. [Roman to Integer](./roman_to_int/description.md)
 
 ## How to Use
 
@@ -23,3 +24,7 @@ You can run the tests using:
 ```bash
 python -m unittest
 ```
+
+## Stay Updated
+
+I will be adding more and more problem solutions very often. Subscribe to get the latest updates!
