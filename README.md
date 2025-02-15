@@ -13,8 +13,8 @@ To run this project, ensure you have Python installed (version 3.6+ recommended)
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/leetcode.git
-cd punishment-number
+git clone https://github.com/AlbertKarapetyan/leetcode.git
+cd leet-code
 ```
 
 ## Usage
@@ -25,14 +25,14 @@ from solution import Solution
 
 sol = Solution()
 n = 10  # Example input
-print(sol.punishmentNumber(n))
+print(sol.punishment_number(n))
 ```
 
 ## Running Tests
 Unit tests are included to verify the correctness of the implementation. Run the tests using:
 
 ```sh
-python -m unittest test_punishment_number.py
+python -m unittest
 ```
 
 ## Example
