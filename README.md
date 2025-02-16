@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 - 1. [Two Sum](./two_sum/description.md)
 - 2. [Punishment Number Calculation](./punishment_number/description.md)
 - 3. [Roman to Integer](./roman_to_int/description.md)
+- 4. [Combination Sum](./combination_sum/description.md)
 
 ## How to Use
 
