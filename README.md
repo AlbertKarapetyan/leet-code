@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 - 4. [Combination Sum](./combination_sum/description.md)
 - 5. [Find Minimum in Rotated Sorted Array](./find_minimum/description.md)
 - 6. [Merge Two Sorted Linked Lists](./merge_two_lists/description.md)
+- 7. [Maximum Number of Vowels in a Substring of Given Length](./max_vowels/description.md)
 
 ## How to Use
 
