@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 - 6. [Merge Two Sorted Linked Lists](./merge_two_lists/description.md)
 - 7. [Maximum Number of Vowels in a Substring of Given Length](./max_vowels/description.md)
 - 8. [Letter Tile Possibilities](./num_tile_possibilities/description.md)
+- 9. [Group Anagrams](./group_anagrams/description.md)
 
 ## How to Use
 
