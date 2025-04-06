@@ -13,6 +13,12 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 - 7. [Maximum Number of Vowels in a Substring of Given Length](./max_vowels/description.md)
 - 8. [Letter Tile Possibilities](./num_tile_possibilities/description.md)
 - 9. [Group Anagrams](./group_anagrams/description.md)
+- 10. [Remove Duplicates from Sorted Array](./remove_duplicates/description.md)
+- 11. [Remove Element](./remove_element/description.md)
+- 12. [Search Insert Position](./search_insert/description.md)
+- 13. [Subsets](./sub_sets/description.md)
+- 14. [Bus Routes](./bus_routes/description.md)
+- 15. [Find the Index of the First Occurrence in a String](./find_the_index/description.md)
 
 ## How to Use
 
