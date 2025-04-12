@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 - 13. [Subsets](./sub_sets/description.md)
 - 14. [Bus Routes](./bus_routes/description.md)
 - 15. [Find the Index of the First Occurrence in a String](./find_the_index/description.md)
+- 16. [Length of Last Word](./length_last_word/description.md)
 
 ## How to Use
 
